@@ -12,3 +12,10 @@ Quiz 8 submission
 - Here's a dynamic interaction of artwork I found on YouTube.
     - [1:57-2:00 Showing the video author's dynamic pattern at the foot of this piece moving with her footsteps]https://www.youtube.com/watch?v=CNNvMCeGZT8
     - [0:09 Shows a dynamic view of the picture]https://www.youtube.com/watch?v=9ziv8HG9i4U
+
+## Part 2
+### Coding Technique
+-  In the first part I was inspired to bloom. In coding techniques I found bloom-like techniques for interacting with the mouse.
+   -  ![Hold down the mouse and move to break up the grid](readmeImages/Screenshot.jpg)
+   - [Code link] https://openprocessing.org/sketch/2135557
+   -  The code is in the third icon in the middle of the page.
